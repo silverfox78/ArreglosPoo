@@ -5,3 +5,4 @@
 3. Hallar los divisores de un numero entero n y guardarlos en un arreglo
 4. Registrar las notas de sus compañeros de su curso actual y hallar el prodio del curso
 5. Dado los datos de un triangulo determina si es equilatero
+6. Registre los n primeros números pares y encuentre su suma
