@@ -36,13 +36,13 @@ Guia de ejercicios: **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/mast
     - Registrar una cantidad n cualquiera de números enteros ingresada por el usuario y desde ella hallar el número menor y el número mayor desde los  ingresados. NO use en su programa valores externos a la muestra como -999999, 0, 999999 o similares.  
     - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio08/Extremos.java)**
 
-- [ ] Ejercicio N°9
+- [x] Ejercicio N°9
     - Al ejercicio anterior agregue la capacidad de encontrar el promedio o media de los números ingresados.  
-    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio09.java)**
+    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio09/Extremos.java)**
 
-- [ ] Ejercicio N°10
+- [x] Ejercicio N°10
     - Registrar N calificaciones de un grupo de alumnos. Calcule y escriba el porcentaje de reprobados. Tomando en cuenta que la calificación mínima aprobatoria es de 4.0  
-    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio10.java)**
+    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio10/Notas.java)**
 
 - [ ] Ejercicio N°11
     - Leer las calificaciones finales obtenidas por todos sus compañeros(n cualquiera)  y escriba la cantidad de ellos que no tienen derecho al examen de repetición.  
