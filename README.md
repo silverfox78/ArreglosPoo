@@ -28,13 +28,13 @@ Guia de ejercicios: **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/mast
     - Registre los n primeros números pares y encuentre su suma
     - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio06/Pares.java)**
 
-- [ ] Ejercicio N°7
+- [x] Ejercicio N°7
     - Registrar una cantidad n cualquiera de números enteros ingresada por el usuario y hallar desde ella la cantidad de números pares y la cantidad de números impares ingresados.  
-    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio07.java)**
+    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio07/AnalisisNumeros.java)**
 
-- [ ] Ejercicio N°8
+- [x] Ejercicio N°8
     - Registrar una cantidad n cualquiera de números enteros ingresada por el usuario y desde ella hallar el número menor y el número mayor desde los  ingresados. NO use en su programa valores externos a la muestra como -999999, 0, 999999 o similares.  
-    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio08.java)**
+    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio08/Extremos.java)**
 
 - [ ] Ejercicio N°9
     - Al ejercicio anterior agregue la capacidad de encontrar el promedio o media de los números ingresados.  
