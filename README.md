@@ -48,9 +48,9 @@ Guia de ejercicios: **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/mast
     - Leer las calificaciones finales obtenidas por todos sus compañeros(n cualquiera)  y escriba la cantidad de ellos que no tienen derecho al examen de repetición.  
     - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio11/Curso.java)**
 
-- [ ] Ejercicio N°12
+- [x] Ejercicio N°12
     - Considere el plano cartesiano como el mundo de los pares ordenados (x,y). Diseñar una aplicación con un menú que permita sumar, restar, multiplicar y dividir dichos pares ordenados cualesquiera. Suponga que cada operación es componente a componente. Debe ser interactivo y permitir al usuario la selección de opciones  las veces que quiera.  
-    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio12.java)**
+    - **Fuentes:** **[Ver](https://github.com/silverfox78/ArreglosPoo/blob/master/src/main/java/ciisa/poo/arreglo/Ejercicio12/Punto.java)**
 
 - [ ] Ejercicio N°13
     - Hallar la primera ocurrencia de un numero X dentro de un conjunto de N datos leídos posteriormente. Si se encuentra el número se entrega la posición y en caso contrario un mensaje de fracaso.  
